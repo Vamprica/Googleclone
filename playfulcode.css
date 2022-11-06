@@ -1,0 +1,28 @@
+body {
+    background-color: darkslategrey;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    color: antiquewhite;
+    letter-spacing: 3px;
+}
+
+.message-box {
+    background-color:burlywood;
+    color: #ffffff;
+    border-radius: 15px 50px 30px;
+    padding: 30px;
+}
+
+p {color: rgb(20, 7, 29);}
+
+#box1 {
+    font-size: 30px;
+}
+
+#box4 {
+    padding: 20px;
+}
